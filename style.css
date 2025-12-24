@@ -58,3 +58,20 @@ footer {
   font-size:0.8rem;
   color:#64748b;
 }
+.card img {
+  width:100%;
+  border-radius:10px;
+  margin-bottom:8px;
+}
+
+.card a {
+  display:inline-block;
+  margin-top:8px;
+  color:#38bdf8;
+  text-decoration:none;
+  font-size:0.9rem;
+}
+
+.card a:hover {
+  text-decoration:underline;
+}
